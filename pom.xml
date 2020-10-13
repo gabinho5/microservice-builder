@@ -22,7 +22,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
 		<jacoco.version>0.7.9</jacoco.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<prometheus.version>0.0.25</prometheus.version>
 		<org.mockito-version>1.9.0</org.mockito-version>
 		<basedir>swaggerpetstorefeedbackmicroservice</basedir>
